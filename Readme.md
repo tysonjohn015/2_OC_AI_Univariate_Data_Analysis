@@ -6,7 +6,7 @@
 
 # Preview
 *Missing data with missingno*
-<img src="./pictures\missing_values_in_data.png">
+<img src=".\missing_values_in_data.png">
 
 # Dependencies
 Pandas, numpy, scipy, matplotlib, seaborn, missingno, folium
