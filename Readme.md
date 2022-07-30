@@ -9,4 +9,4 @@
 <img src=".\conclusion.png">
 
 # Dependencies
-Pandas, numpy, scipy, matplotlib, seaborn, missingno, folium
+Pandas, numpy, matplotlib, seaborn
