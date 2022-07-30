@@ -5,8 +5,8 @@
 [Open Data Paris - The trees](https://opendata.paris.fr/explore/dataset/les-arbres/)
 
 # Preview
-*Missing data with missingno*
-<img src=".\missing_values_in_data.png">
+*Déterminer les objectifs d'une analyse de données à partir d’un problème métier*
+<img src=".\conclusion.png">
 
 # Dependencies
 Pandas, numpy, scipy, matplotlib, seaborn, missingno, folium
